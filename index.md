@@ -125,7 +125,7 @@ Use of AI coding assistants **is permitted**. However, you should explicitly att
 
 In this lecture, we introduce the concept of MLE, Smoothing, Perplexity, and Language Modeling basics.
 
-- **Slides:** <a href="slides/lecture-02-slides/index.html" target="_blank" rel="noopener">Lecture 01 slides</a>
+- **Slides:** <a href="slides/lecture-02-slides/index.html" target="_blank" rel="noopener">Lecture 02 slides</a>
 - **Readings:**
   - <a href="papers/lecture-02-readings-0-JM_Book_Chapter_3.pdf" target="_blank" rel="noopener">JM Book Chapter 3</a>
   - <a href="papers/lecture-02-readings-1-chen-goodman-99-v2.pdf" target="_blank" rel="noopener">N-gram smoothing</a>
