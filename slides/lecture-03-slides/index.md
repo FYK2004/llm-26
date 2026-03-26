@@ -30,7 +30,7 @@
   <div style="display:flex; gap:2rem; align-items:stretch;">
     <div style="flex:1.05;">
       <p style="font-size: 34px; margin:0 0 12px 0; line-height:1.35;">
-        A typical NLP task - Given a piece of text, we want to predict its label.
+        A typical NLP task --- - Given a piece of text, we want to predict its label.
       </p>
       <ul style="font-size: 32px; line-height:1.45; margin-top:10px; padding-left: 1.2em;">
         <li><b>Spam detection</b>: spam / not spam</li>
@@ -81,7 +81,7 @@
             <li>Accuracy can be high if rules carefully refined by expert. But building and maintaining these rules is expensive. Rules change from time to time.</li>
           </ul>
         </li>
-        <li style="margin-bottom: 8px;"><b>Supervised learning</b> <span class="text-green">(still useful)</span>
+        <li style="margin-bottom: 8px;"><b>Supervised --- learning</b> <span class="text-green">(still useful)</span>
           <ul style="font-size: 0.92em; margin-top: 8px; line-height: 1.35;">
             <li><b>Input:</b> A document \(d\); set of classes \(C = \{c_1, c_2, \ldots, c_k\}\); a training set of \(n\) labeled documents \((d_1, c_1), \ldots, (d_n, c_n)\)</li>
             <li><b>Output:</b> A learned classifier \(\theta\): \(d \rightarrow c\)</li>

@@ -217,3 +217,7 @@ gpt-2
 **/.datasets
 datasets.zip
 **/datasets.zip
+assignments/enwiki-train.json
+lecture-03-embeddings/models/nomic-embed-text.gguf
+assignments/enwiki-train.json
+lecture-03-embeddings/models/nomic-embed-text.gguf
